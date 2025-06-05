@@ -9,6 +9,8 @@ custom wordlists from a given URL!
 MANTIS is also the best bug for gathering information for
 a specific social media account
 
+as of 6/5/25 I am still working on this script:)
+
 TOOLS/IMPORTS
 ----------------------------
 whois -- for domain whois lookup
